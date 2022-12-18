@@ -15,3 +15,6 @@
   - [2022-12-10](setlists/20221210.md)
   - [2022-12-11](setlists/20221211.md)
   - [2022-12-14](setlists/20221214.md)
+
+## Note
+- [About](notes/about.md)
