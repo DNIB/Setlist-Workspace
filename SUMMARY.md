@@ -1,4 +1,5 @@
 # Sena Ch.脊中
+- [Introduce](notes/introduce.md)
 
 ## Setlists
 - Nov. 2022
