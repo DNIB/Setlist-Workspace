@@ -13,8 +13,8 @@
 | 2024-02-29 | [〖歌枠〗風邪ひいたよ！！でも死ぬ気で歌いますよ！！](./setlists/2024-02-29.md) |
 | 2024-03-01 | [〖歌枠〗風邪ひき！MAX鼻声！ゆっくりしていってね！](./setlists/2024-03-01.md) |
 | 2024-03-02 | [〖歌枠〗歌いますがんばります！初見さんぜひ～！](./setlists/2024-03-02.md) |
-| 2024-03-11 | [〖歌枠〗ｱﾆｿﾝ多めでいきます！頑張ります！](https://www.youtube.com/watch?v=W9sNiLEo12M) |
-| 2024-03-13 | [〖歌枠〗アニソン多め老人会！初見さん常連さん歓迎desu！](https://www.youtube.com/watch?v=xhMe5VlMjxo) |
+| 2024-03-11 | [〖歌枠〗ｱﾆｿﾝ多めでいきます！頑張ります！](./setlists/2024-03-11.md) |
+| 2024-03-13 | [〖歌枠〗アニソン多め老人会！初見さん常連さん歓迎desu！](./setlists/2024-03-13.md) |
 
 ## Document
 - Please see [README.md](https://github.com/DNIB/Setlist-Workspace/blob/main/public/README.md)
