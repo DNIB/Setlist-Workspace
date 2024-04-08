@@ -17,6 +17,8 @@
 | 2024-02-16 | [【お披露目】コトリン3.0と色々と少し歌う New Year New Me Let's gooooo](./setlists/2024-02-16.md) |
 | 2024-02-23 | [【縦型歌枠】まったり洋楽 リラックスして寝落ちしよ Midnight Vibes Chill Songs](./setlists/2024-02-23.md) |
 | 2024-02-27 | [【縦型歌枠】深夜まったりアニソン＆JPOP Suddenly Decided to Sing at Midnight UwU](./setlists/2024-02-27.md) |
+| 2024-03-23 | [【歌枠】懐かしいボカロ/アニソン/洋楽 Just a Karaoke Stream UwU](./setlists/2024-03-23.md) |
+| 2024-04-04 | [【歌枠】深夜まったり歌います Midnight Karaoke Stream](./setlists/2024-04-04.md) |
 
 ## Document
 - Please see [README.md](https://github.com/DNIB/Setlist-Workspace/blob/main/public/README.md)
