@@ -19,6 +19,8 @@
 | 2024-02-27 | [【縦型歌枠】深夜まったりアニソン＆JPOP Suddenly Decided to Sing at Midnight UwU](./setlists/2024-02-27.md) |
 | 2024-03-23 | [【歌枠】懐かしいボカロ/アニソン/洋楽 Just a Karaoke Stream UwU](./setlists/2024-03-23.md) |
 | 2024-04-04 | [【歌枠】深夜まったり歌います Midnight Karaoke Stream](./setlists/2024-04-04.md) |
+| 2024-04-28 | [【歌枠】エモい曲ばっか歌いたい気分 JPOP/アニソン/洋楽 Midnight Try Not To Cry Karaoke Stream](./setlists/2024-04-28.md) |
+| 2024-05-12 | [【歌枠】大声で歌いたい気分 JPOP/アニソン/洋楽 Karaoke Stream Let's gooooooo](./setlists/2024-05-12.md) |
 
 ## Document
 - Please see [README.md](https://github.com/DNIB/Setlist-Workspace/blob/main/public/README.md)
