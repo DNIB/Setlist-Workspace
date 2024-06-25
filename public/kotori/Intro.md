@@ -21,6 +21,7 @@
 | 2024-04-04 | [【歌枠】深夜まったり歌います Midnight Karaoke Stream](./setlists/2024-04-04.md) |
 | 2024-04-28 | [【歌枠】エモい曲ばっか歌いたい気分 JPOP/アニソン/洋楽 Midnight Try Not To Cry Karaoke Stream](./setlists/2024-04-28.md) |
 | 2024-05-12 | [【歌枠】大声で歌いたい気分 JPOP/アニソン/洋楽 Karaoke Stream Let's gooooooo](./setlists/2024-05-12.md) |
+| 2024-06-08 | [【歌枠】お酒飲みながら！ JPOP/アニソン/洋楽 Drunk Karaoke Stream Let's gooooooo](./setlists/2024-06-08.md) |
 
 ## Document
 - Please see [README.md](https://github.com/DNIB/Setlist-Workspace/blob/main/public/README.md)
