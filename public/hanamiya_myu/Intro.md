@@ -1,8 +1,5 @@
 # Introduction
 
-## Information
-- [blank]
-
 ## Setlists
 
 | Date       | Setlist                                                                 |
