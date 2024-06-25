@@ -7,8 +7,7 @@ description: Menu
 - Setlists
     - [eno](https://setlist-workspace.gitbook.io/setlist-eno)
     - [小鳥遊コトリ](https://setlist-workspace.gitbook.io/setlist-kotori)
-    - [花宮ミュウ](https://setlist-workspace.gitbook.io/setlist-workspace/hanamiya_myu)
-        - Note: This link isn't supported independent page yet.
+    - [花宮ミュウ](https://setlist-workspace.gitbook.io/setlist-myu/)
 - 也可透過左方書目移動
 
 # About
